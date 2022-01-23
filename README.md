@@ -32,5 +32,8 @@ print(solution[0])
 print(f"States explored: {solution[1]}")
 ```
 
+## License
+[MIT](https://github.com/weien0905/sudoku_solver/blob/main/LICENSE)
+
 ## Credits
 Inspiration from [CS50 AI](https://cs50.harvard.edu/ai/2020/notes/3/).
