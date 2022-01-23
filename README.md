@@ -9,7 +9,7 @@ Install or copy the Python script from the [file](https://github.com/weien0905/s
 # Import Sudoku class from the file
 from sudoku import Sudoku
 
-# Create a Sudoku object with argument of a grid in 2D list
+# Create a Sudoku object with argument of a grid in 2D list (values from 1-9 and None for empty cells)
 s = Sudoku(grid)
 
 # Returns the solution in 2D list
@@ -31,3 +31,6 @@ print(solution[0])
 # Print the number of states explored in the terminal
 print(f"States explored: {solution[1]}")
 ```
+
+# Credits
+Inspiration from [CS50 AI](https://cs50.harvard.edu/ai/2020/notes/3/).
