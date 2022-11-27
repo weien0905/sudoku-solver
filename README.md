@@ -3,7 +3,7 @@
 This is a Python script to solve Sudoku puzzles using backtracking search and AC-3 algorithm.
 
 ## Usage
-Refer to [example.py](https://github.com/weien0905/sudoku_solver/blob/main/example.py) for usage.
+Refer to [example.py](https://github.com/weien0905/sudoku-solver/blob/main/example.py) for usage.
 
 ## License
 [MIT](https://github.com/weien0905/sudoku_solver/blob/main/LICENSE)
