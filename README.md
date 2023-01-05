@@ -9,4 +9,4 @@ Refer to [example.py](example.py) for usage.
 [MIT](LICENSE)
 
 ## Acknowledgement
-Inspiration from [CS50 AI](https://cs50.harvard.edu/ai/2020/notes/3/).
+Inspiration from [CS50 AI](https://cs50.harvard.edu/ai/2020/notes/3/#backtracking-search).
