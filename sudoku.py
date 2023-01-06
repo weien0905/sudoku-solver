@@ -65,7 +65,7 @@ class Sudoku:
 
     def backtrack(self, values, domains):
         """Solve the puzzle by using backtracking search. Recursively calling itself until there is a solution"""
-        # Chcek whether the puzzle has been solved
+        # Check whether the puzzle has been solved
         if all(None not in row for row in values):
             return values
 
