@@ -1,6 +1,6 @@
 # Sudoku Solver
 
-Python and JavaScript script to solve Sudoku puzzles using backtracking search and AC-3 algorithm.
+There are two scripts written in different languages to solve Sudoku puzzles using backtracking search and AC-3 algorithm, which are Python and Javascript. Choose either one and follow the instruction below.
 
 ## Usage
 - Clone this repository.
