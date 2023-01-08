@@ -1,9 +1,19 @@
 # Sudoku Solver
 
-This is a Python script to solve Sudoku puzzles using backtracking search and AC-3 algorithm.
+Python and JavaScript script to solve Sudoku puzzles using backtracking search and AC-3 algorithm.
 
 ## Usage
-Refer to [example.py](example.py) for usage.
+- Clone this repository.
+
+### Python
+- Make sure Python is installed on your local machine.
+- Refer to [python/example.py](example.py) and edit the Sudoku grid.
+- Run ``` cd python ``` and ``` python example.py ``` in the terminal.
+
+### Javascript
+- Make sure Node.js in installed on your local machine.
+- Refer to [javascript/example.js](example.js) and edit the Sudoku grid.
+- Run ``` cd javascript ``` and ``` node example.js ``` in the terminal.
 
 ## License
 [MIT](LICENSE)
