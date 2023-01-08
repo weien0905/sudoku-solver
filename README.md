@@ -7,12 +7,12 @@ There are two scripts written in different languages to solve Sudoku puzzles usi
 
 ### Python
 - Make sure Python is installed on your local machine.
-- Refer to [python/example.py](example.py) and edit the Sudoku grid.
+- Refer to [example.py](python/example.py) and edit the Sudoku grid.
 - Run ``` cd python ``` and ``` python example.py ``` in the terminal.
 
 ### Javascript
 - Make sure Node.js in installed on your local machine.
-- Refer to [javascript/example.js](example.js) and edit the Sudoku grid.
+- Refer to [example.js](javascript/example.js) and edit the Sudoku grid.
 - Run ``` cd javascript ``` and ``` node example.js ``` in the terminal.
 
 ## License
